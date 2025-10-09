@@ -2,11 +2,12 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+   
 }
 .header {
     top: 0;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #f0eeee;
     display: flex;
     justify-content: center;
     position: fixed; 
@@ -15,6 +16,7 @@
 .header .header-content {
     width: 100%;
     max-width: 1200px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
